@@ -1,0 +1,5 @@
+rich>=13.0.0
+typer>=0.9.0
+# Preferred: lightweight HTTP-only SDK (no grpcio compilation needed)
+google-genai>=0.8.0
+# Alternative: google-generativeai>=0.8.0 (requires grpcio — may need compilation)
